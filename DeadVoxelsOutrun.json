@@ -51,8 +51,20 @@
       "#1d73cf", "#1e558f"
     ],
     "CHANNELS_DEFAULT": [
-      "#37ff00"
-    ]
+      "#6d696e", "#4c494d"
+    ],
+    "CHAT_BACKGROUND": [
+      "#00000000"
+    ],
+    "HEADER_PRIMARY": [
+      "#ced2d6", "#9da0a3"
+    ],
+    "HEADER_SECONDARY": [
+      "#801473", "#52214c"
+    ],
+    "HOME_BACKGROUND": [
+      "#ffff00", "#ffff00"
+    ],
        },
    "plus":{
        "version":"0",
@@ -67,5 +79,11 @@
           "StatusOnline": "#56949f"
  }
 },
-    "spec": 2
+  "spec": 2,
+  "background": {
+    "blur": 5,
+    "url": "https://github.com/DeadVoxels/Vendetta-Outrun-Theme/blob/main/IsometricOutrun.png?raw=true",
+    "alpha": 0.35,
+    "color": "#000000"
+  }
 }
