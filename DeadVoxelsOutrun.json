@@ -65,25 +65,40 @@
     "HOME_BACKGROUND": [
       "#ffff00", "#ffff00"
     ],
-       },
-   "plus":{
-       "version":"0",
-       "iconpack":"rosiecord-plumpy",
-       "icons":{
-          "ic_new_pins":"#b4637a",
-          "StatusStreaming": "#907aa9",
-          "StatusMobileOnline": "#56949f",
-          "StatusIdle": "#d7827e",
-          "StatusDND": "#b4637a",
-          "StatusOffline": "#9893a5",
-          "StatusOnline": "#56949f"
+      },
+  "rawColors": {
+    "BLACK_500": "#000000",
+    "BLACK_530": "#000000",
+    "BLACK_560": "#000000",
+    "BLACK_600": "#000000",
+    "BLACK_630": "#000000",
+    "BLACK_660": "#000000",
+    "BLACK_700": "#000000",
+    "BLACK_730": "#000000",
+    "BLACK_760": "#000000",
+    "BLACK_800": "#000000",
+    "BLACK_830": "#000000",
+    "BLACK_860": "#000000",
+    "BLACK_900": "#000000"
+  },
+  "plus":{
+    "version":"0",
+    "iconpack":"rosiecord-plumpy",
+    "icons":{
+    "ic_new_pins":"#b4637a",
+    "StatusStreaming": "#907aa9",
+    "StatusMobileOnline": "#56949f",
+    "StatusIdle": "#d7827e",
+    "StatusDND": "#b4637a",
+    "StatusOffline": "#9893a5",
+    "StatusOnline": "#56949f"
  }
 },
-  "spec": 2,
-  "background": {
-    "blur": 5,
-    "url": "https://github.com/DeadVoxels/Vendetta-Outrun-Theme/blob/main/IsometricOutrun.png?raw=true",
-    "alpha": 0.35,
-    "color": "#000000"
+"spec": 2,
+"background": {
+  "blur": 5,
+  "url": "https://github.com/DeadVoxels/Vendetta-Outrun-Theme/blob/main/IsometricOutrun.png?raw=true",
+  "alpha": 0.35,
+  "color": "#000000"
   }
 }
