@@ -1,0 +1,71 @@
+{
+  "name": "Outrun Neon",
+  "description": "An Outrun/Synthwave inspired theme",
+  "authors": [
+    {
+      "name": "DeadVoxels",
+      "id": "239411543941447681"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#188ff0", "#188ff0"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#343236", "#110d12"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#188ff030"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#252226", "#0a000d"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#343236", "#110d12"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#3d294a", "#1a141f"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#374c6b30", "#2b384d30"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#52376c30", "#3d2c4e"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#bd26a1", "#781766"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#2b2a2a", "#19191a"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#45454d", #2e3033"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "00000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1b1121", "#150e1a"
+    ],
+    "CHANNEL_ICON": [
+      "#1d73cf", "#1e558f"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#37ff00"
+    ]
+       },
+   "plus":{
+       "version":"0",
+       "iconpack":"rosiecord-plumpy",
+       "icons":{
+          "ic_new_pins":"#b4637a",
+          "StatusStreaming": "#907aa9",
+          "StatusMobileOnline": "#56949f",
+          "StatusIdle": "#d7827e",
+          "StatusDND": "#b4637a",
+          "StatusOffline": "#9893a5",
+          "StatusOnline": "#56949f"
+ }
+},
+    "spec": 2
+}
