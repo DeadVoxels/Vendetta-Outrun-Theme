@@ -64,7 +64,7 @@
     ],
     "HOME_BACKGROUND": [
       "#ffff00", "#ffff00"
-    ],
+    ]
       },
   "rawColors": {
     "BLACK_500": "#000000",
@@ -87,5 +87,5 @@
   "url": "https://github.com/DeadVoxels/Vendetta-Outrun-Theme/blob/main/IsometricOutrun.png?raw=true",
   "alpha": 0.35,
   "color": "#000000"
-  }
+}
 }
